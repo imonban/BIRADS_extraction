@@ -1,0 +1,348 @@
+id,term,termSyn,subClass,subClassSyn
+0,amorphous calcification,indistinct calcification,,
+1,amorphous calcification,predominately round calcification,,
+2,amorphous calcification,amorphous,,
+3,amorphous calcification,indistinct,,
+4,amorphous calcification,predominately round,,
+5,angular margin,jagged margin,,
+6,angular margin,angulated margin,,
+7,angular margin,angular,,
+8,asymmetric tubular structure,solitary dilated duct,,
+9,BI-RADS 0,BIRADS 0,,
+10,BI-RADS 1,BIRADS 1,,
+11,BI-RADS 2,BIRADS 2,,
+12,BI-RADS 3,BIRADS 3,,
+13,BI-RADS 4,BIRADS 4,,
+14,BI-RADS 4A,BIRADS 4A,,
+15,BI-RADS 4B,BIRADS 4,,
+16,BI-RADS 4C,BIRADS 4C,,
+17,BI-RADS 5,BIRADS 5,,
+18,BI-RADS 6,BIRADS 6,,
+19,BI-RADS N/A,BIRADS N/A,,
+20,BI-RADS N/A,BIRADS NA,,
+21,calcification,Kalzifikation,broncholith,
+22,calcification,Kalzifikation,optic nerve drusen,Drusen des Sehnerven
+23,calcification,calcifications,,
+24,calcified,verkalkt,,
+25,central enhancement,,,
+26,central region of breast,,,
+27,central region of left breast,,,
+28,central region of right breast,,,
+29,circumscribed,well-defined,,
+30,circumscribed,sharply-defined,,
+31,circumscribed margin,sharply-defined margin,,
+32,circumscribed margin,Umschriebener Rand,,
+33,circumscribed margin,well-defined margin,,
+34,coarse calcification,popcorn calcification,,
+35,coarse calcification,popcorn-like calcification,,
+36,coarse heterogeneous calcification,indeterminate calcification,,
+37,coarse heterogeneous calcification,heterogeneous calcification,,
+38,diffuse skin thickening,,,
+39,dystrophic calcification,,,
+40,eggshell calcification,rim calcification,,
+41,extremely dense,,,
+42,fat containing,radiolucent,,
+43,fat containing,fett enthaltend,,
+44,fat containing,fat-containing,,
+45,female breast,,,
+46,female breast,,,
+47,fine linear calcification,casting calcification,,
+48,fine linear calcification,branching calcification,,
+49,fine pleomorphic calcification,,,
+50,focal asymmetry,,,
+51,focal skin thickening,,,
+52,gas containing,gas-containing,,
+53,global asymmetry,,,
+54,heterogeneous,inhomogeneous,,
+55,heterogeneous mass enhancement,,,
+56,heterogeneously dense,heterogenously dense,,
+57,homogeneous,,,
+58,homogeneous mass enhancement,,,
+59,indistinct,ill-defined,,
+60,indistinct margin,Unscharfer Rand,,
+61,indistinct margin,smudgy margin,,
+62,indistinct margin,poorly defined margin,,
+63,indistinct margin,poorly-defined margin,,
+64,indistinct margin,ill-defined margin,,
+65,intraparenchymal,,,
+66,irregular margin,IrregulÌ_rer Rand,,
+67,irregular mass,stellate mass,,
+68,irregular mass,spiculated mass,,
+69,irregular mass,stellate mass,,
+70,irregular mass,spiculated mass,,
+71,irregular mass,stellate mass,,
+72,irregular mass,spiculated mass,,
+73,irregular mass,stellate mass,,
+74,irregular mass,spiculated mass,,
+75,irregular mass,stellate mass,,
+76,irregular mass,spiculated mass,,
+77,irregular mass,stellate mass,,
+78,irregular mass,spiculated mass,,
+79,irregular mass,irregular,,
+80,large rod-like calcification,secretory calcification,,
+81,large rod-like calcification,rod-like,,
+82,large rod-like calcification,secretory,,
+83,lateral region of breast,,,
+84,lateral region of left breast,,,
+85,lateral region of right breast,,,
+86,left female breast,,,
+87,left male breast,,,
+88,left nipple,,,
+89,lipid containing,Fett enthaltend,,
+90,lobular mass,lobulated mass,,
+91,lobular mass,lobulated mass,,
+92,lobular mass,lobulated mass,,
+93,lobular mass,lobulated mass,,
+94,lobular mass,lobulated mass,,
+95,lobular mass,lobulated mass,,
+96,lobular mass,lobular,,
+97,lobulated margin,Lobulierter Rand,,
+98,lower inner quadrant of left female breast,,,
+99,lower inner quadrant of right female breast,,,
+100,lower outer quadrant of left female breast,,,
+101,lower outer quadrant of right female breast,,,
+102,lucent-centered calcification,lucent-centered ,,
+103,macrocalcifications,,,
+104,male breast,,,
+105,male breast,,,
+106,mass,focus,parallel lesion,wider than tall mass
+107,mass,focus,parallel lesion,horizontal mass
+108,mass,focus,parallel lesion,parallel mass
+109,mass,focus,parallel lesion,wider than tall lesion
+110,mass,focus,parallel lesion,horizontal lesion
+111,mass,focus,not parallel lesion,not parallel mass
+112,mass,focus,not parallel lesion,non-parallel mass
+113,mass,focus,not parallel lesion,vertical mass
+114,mass,focus,not parallel lesion,taller than wide lesion
+115,mass,focus,not parallel lesion,non-parallel lesion
+116,mass,focus,not parallel lesion,taller than wide mass
+117,mass,focus,not parallel lesion,vertical lesion
+118,mass,focus,mass in or on skin,superficial mass
+119,mass,focus,mass in or on skin,dermatologic mass
+120,mass,focus,mass in or on skin,epidermal mass
+121,mass,focus,mass in or on skin,subcutaneous mass
+122,mass,focus,mass in or on skin,dermal mass
+123,mass,focus,mass in or on skin,extramammary mass
+124,mass,focus,mass in or on skin,cutaneous mass
+125,mass,,parallel lesion,wider than tall mass
+126,mass,,parallel lesion,horizontal mass
+127,mass,,parallel lesion,parallel mass
+128,mass,,parallel lesion,wider than tall lesion
+129,mass,,parallel lesion,horizontal lesion
+130,mass,,not parallel lesion,not parallel mass
+131,mass,,not parallel lesion,non-parallel mass
+132,mass,,not parallel lesion,vertical mass
+133,mass,,not parallel lesion,taller than wide lesion
+134,mass,,not parallel lesion,non-parallel lesion
+135,mass,,not parallel lesion,taller than wide mass
+136,mass,,not parallel lesion,vertical lesion
+137,mass,,mass in or on skin,superficial mass
+138,mass,,mass in or on skin,dermatologic mass
+139,mass,,mass in or on skin,epidermal mass
+140,mass,,mass in or on skin,subcutaneous mass
+141,mass,,mass in or on skin,dermal mass
+142,mass,,mass in or on skin,extramammary mass
+143,mass,,mass in or on skin,cutaneous mass
+144,mass,lesion,parallel lesion,wider than tall mass
+145,mass,lesion,parallel lesion,horizontal mass
+146,mass,lesion,parallel lesion,parallel mass
+147,mass,lesion,parallel lesion,wider than tall lesion
+148,mass,lesion,parallel lesion,horizontal lesion
+149,mass,lesion,not parallel lesion,not parallel mass
+150,mass,lesion,not parallel lesion,non-parallel mass
+151,mass,lesion,not parallel lesion,vertical mass
+152,mass,lesion,not parallel lesion,taller than wide lesion
+153,mass,lesion,not parallel lesion,non-parallel lesion
+154,mass,lesion,not parallel lesion,taller than wide mass
+155,mass,lesion,not parallel lesion,vertical lesion
+156,mass,lesion,mass in or on skin,superficial mass
+157,mass,lesion,mass in or on skin,dermatologic mass
+158,mass,lesion,mass in or on skin,epidermal mass
+159,mass,lesion,mass in or on skin,subcutaneous mass
+160,mass,lesion,mass in or on skin,dermal mass
+161,mass,lesion,mass in or on skin,extramammary mass
+162,mass,lesion,mass in or on skin,cutaneous mass
+163,mass,nodule,parallel lesion,wider than tall mass
+164,mass,nodule,parallel lesion,horizontal mass
+165,mass,nodule,parallel lesion,parallel mass
+166,mass,nodule,parallel lesion,wider than tall lesion
+167,mass,nodule,parallel lesion,horizontal lesion
+168,mass,nodule,not parallel lesion,not parallel mass
+169,mass,nodule,not parallel lesion,non-parallel mass
+170,mass,nodule,not parallel lesion,vertical mass
+171,mass,nodule,not parallel lesion,taller than wide lesion
+172,mass,nodule,not parallel lesion,non-parallel lesion
+173,mass,nodule,not parallel lesion,taller than wide mass
+174,mass,nodule,not parallel lesion,vertical lesion
+175,mass,nodule,mass in or on skin,superficial mass
+176,mass,nodule,mass in or on skin,dermatologic mass
+177,mass,nodule,mass in or on skin,epidermal mass
+178,mass,nodule,mass in or on skin,subcutaneous mass
+179,mass,nodule,mass in or on skin,dermal mass
+180,mass,nodule,mass in or on skin,extramammary mass
+181,mass,nodule,mass in or on skin,cutaneous mass
+182,mass,vague density,parallel lesion,wider than tall mass
+183,mass,vague density,parallel lesion,horizontal mass
+184,mass,vague density,parallel lesion,parallel mass
+185,mass,vague density,parallel lesion,wider than tall lesion
+186,mass,vague density,parallel lesion,horizontal lesion
+187,mass,vague density,not parallel lesion,not parallel mass
+188,mass,vague density,not parallel lesion,non-parallel mass
+189,mass,vague density,not parallel lesion,vertical mass
+190,mass,vague density,not parallel lesion,taller than wide lesion
+191,mass,vague density,not parallel lesion,non-parallel lesion
+192,mass,vague density,not parallel lesion,taller than wide mass
+193,mass,vague density,not parallel lesion,vertical lesion
+194,mass,vague density,mass in or on skin,superficial mass
+195,mass,vague density,mass in or on skin,dermatologic mass
+196,mass,vague density,mass in or on skin,epidermal mass
+197,mass,vague density,mass in or on skin,subcutaneous mass
+198,mass,vague density,mass in or on skin,dermal mass
+199,mass,vague density,mass in or on skin,extramammary mass
+200,mass,vague density,mass in or on skin,cutaneous mass
+201,mass,Raumforderung,parallel lesion,wider than tall mass
+202,mass,Raumforderung,parallel lesion,horizontal mass
+203,mass,Raumforderung,parallel lesion,parallel mass
+204,mass,Raumforderung,parallel lesion,wider than tall lesion
+205,mass,Raumforderung,parallel lesion,horizontal lesion
+206,mass,Raumforderung,not parallel lesion,not parallel mass
+207,mass,Raumforderung,not parallel lesion,non-parallel mass
+208,mass,Raumforderung,not parallel lesion,vertical mass
+209,mass,Raumforderung,not parallel lesion,taller than wide lesion
+210,mass,Raumforderung,not parallel lesion,non-parallel lesion
+211,mass,Raumforderung,not parallel lesion,taller than wide mass
+212,mass,Raumforderung,not parallel lesion,vertical lesion
+213,mass,Raumforderung,mass in or on skin,superficial mass
+214,mass,Raumforderung,mass in or on skin,dermatologic mass
+215,mass,Raumforderung,mass in or on skin,epidermal mass
+216,mass,Raumforderung,mass in or on skin,subcutaneous mass
+217,mass,Raumforderung,mass in or on skin,dermal mass
+218,mass,Raumforderung,mass in or on skin,extramammary mass
+219,mass,Raumforderung,mass in or on skin,cutaneous mass
+220,medial region of breast,,,
+221,medial region of left breast,,,
+222,medial region of right breast,,,
+223,medullary nephrocalcinosis,,,
+224,microcalcifications in mass,,,
+225,microcalcifications out of mass,,,
+226,microlobulated,,,
+227,microlobulated margin,microundulated margin,,
+228,microlobulated margin,Mikrolobulierter Rand,,
+229,milk of calcium,Kalkmilchzysten,,
+230,milk of calcium bile,limy bile syndrome,,
+231,milk of calcium bile,Kalkmilchgalle,,
+232,milk of calcium calcification,teacup calcification,,
+233,milk of calcium calcification,layering calcification,,
+234,nipple,papilla mammaria,,
+235,nipple of female breast,female nipple,,
+236,nipple of left female breast,left female nipple,,
+237,nipple of left male breast,left male nipple,,
+238,nipple of male breast,male nipple,,
+239,nipple of right female breast,right female nipple,,
+240,nipple of right male breast,right male nipple,,
+241,nipple retraction,nipple inversion,,
+242,non-caseating,nicht verkÌ_send,,
+243,non-hemorrhagic,bland,,
+244,non-hemorrhagic,nicht hÌ_morrhagisch,,
+245,not circumscribed margin,non-circumscribed margin,,
+246,obscured margin,Verdeckter Rand,,
+247,oval mass,elliptical mass,,
+248,oval mass,ovoid mass,,
+249,oval mass,egg-shaped mass,,
+250,oval mass,gently lobulated mass,,
+251,oval mass,macrolobulated mass,,
+252,oval mass,elliptical mass,,
+253,oval mass,ovoid mass,,
+254,oval mass,egg-shaped mass,,
+255,oval mass,gently lobulated mass,,
+256,oval mass,macrolobulated mass,,
+257,oval mass,elliptical mass,,
+258,oval mass,ovoid mass,,
+259,oval mass,egg-shaped mass,,
+260,oval mass,gently lobulated mass,,
+261,oval mass,macrolobulated mass,,
+262,oval mass,elliptical mass,,
+263,oval mass,ovoid mass,,
+264,oval mass,egg-shaped mass,,
+265,oval mass,gently lobulated mass,,
+266,oval mass,macrolobulated mass,,
+267,oval mass,elliptical mass,,
+268,oval mass,ovoid mass,,
+269,oval mass,egg-shaped mass,,
+270,oval mass,gently lobulated mass,,
+271,oval mass,macrolobulated mass,,
+272,oval mass,elliptical mass,,
+273,oval mass,ovoid mass,,
+274,oval mass,egg-shaped mass,,
+275,oval mass,gently lobulated mass,,
+276,oval mass,macrolobulated mass,,
+277,oval mass,oval,,
+278,predominantly fatty,,,
+279,quadrant of breast,breast quadrant,,
+280,region of breast,breast subdivision,areola,areola mammae
+281,right female breast,,,
+282,right male breast,,,
+283,right nipple,,,
+284,rim enhancement,,,
+285,round calcification,punctate calcification,,
+286,round mass,spherical mass,,
+287,round mass,ball-shaped mass,,
+288,round mass,globular mass,,
+289,round mass,circular mass,,
+290,round mass,spherical mass,,
+291,round mass,ball-shaped mass,,
+292,round mass,globular mass,,
+293,round mass,circular mass,,
+294,round mass,spherical mass,,
+295,round mass,ball-shaped mass,,
+296,round mass,globular mass,,
+297,round mass,circular mass,,
+298,round mass,spherical mass,,
+299,round mass,ball-shaped mass,,
+300,round mass,globular mass,,
+301,round mass,circular mass,,
+302,round mass,spherical mass,,
+303,round mass,ball-shaped mass,,
+304,round mass,globular mass,,
+305,round mass,circular mass,,
+306,round mass,spherical mass,,
+307,round mass,ball-shaped mass,,
+308,round mass,globular mass,,
+309,round mass,circular mass,,
+310,scattered fibroglandular densities,scattered fibroglandular ,,
+311,semisolid,,,
+312,serous,serÌ¦s,,
+313,simple,einfach,,
+314,simple,uncomplicated,,
+315,skin calcification,polygonal calcification,,
+316,smooth margin,Glatter Rand,,
+317,smooth margin,Glatter Rand,,
+318,smooth margin,Glatter Rand,,
+319,smooth margin,smooth,,
+320,solid,solide,,
+321,spiculated margin,spiculated,,
+322,spiculated margin,stellate margin,,
+323,spiculated margin,Spikulierter Rand,,
+324,subareolar region of breast,,,
+325,subareolar region of left breast,,,
+326,subareolar region of right breast,,,
+327,superior region of breast,,,
+328,superior region of left breast,,,
+329,superior region of right breast,,,
+330,suture calcification,,,
+331,upper inner quadrant of left female breast,,,
+332,upper inner quadrant of right female breast,,,
+333,upper outer quadrant of left female breast,,,
+334,upper outer quadrant of right female breast,,,
+335,vascular calcification,tubular calcification,,
+336,vascular calcification,tram-track calcification,,
+337,vascular calcification,vascular,,
+338,vascular calcification,tubular,,
+339,almost entirely fat,BI-RADS category a,,
+340,almost entirely fat,BI-RADS breast composition category a,,
+341,extreme fibroglandular tissue,BI-RADS breast composition category d,,
+342,extreme fibroglandular tissue,BI-RADS category d,,
+343,heterogeneous fibroglandular tissue,BI-RADS breast composition category d,,
+344,heterogeneous fibroglandular tissue,BI-RADS category d,,
+345,scattered fibroglandular tissue,BI-RADS breast composition category b,,
+346,scattered fibroglandular tissue,BI-RADS category b,,

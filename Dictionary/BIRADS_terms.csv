@@ -1,0 +1,57 @@
+Birads key,categories
+Density,Breast fibogranular density
+Density,Breast heterogeneously dense
+Density,Breast extremely dense
+Mass,Breast obscure mass
+Density,entirely fatty Breast
+Mass,irregular mass
+Mass,round mass
+Mass,oval mass
+Margin,indistinct mass
+Margin,spiculated margin
+Margin,microlobulated margin
+Margin,obscured margin
+Margin,circumscribed margin
+Density,fat containing density
+Density,low density
+Density,equal density
+Density,high density
+Calcification,vascular calcification
+Calcification,coarse calcification
+Calcification,dystrophic calcification
+Calcification,fine pleomorphic calcification
+Calcification,corse heterogeneous calcification
+Calcification,amorphous calcification
+Calcification,sature calcification
+Calcification,milk of calcium calcification
+Calcification,round calcificaion
+Calcification,rim calcification 
+Calcification,large rod like calcification
+Calcification,grouped calcification
+Calcification,regional calcification
+Calcification,diffuse calcification
+Calcification,fine-linear branching calcification
+Calcification,fine linear calcification
+Calcification,segmental calcification
+Calcification,linear calcification
+Calcification,popcorn like calcification
+Asymmetries,developing asymmetry
+Asymmetries,focal asymmetry
+Asymmetries,global asymmetry
+Asymmetries,asymmetry
+Node,Intramammary lymph node
+Lesion,Skin lesion
+Duct,Solitary diliated duct
+Associated features,nipple retraction
+Associated features,skin thickening
+Associated features,axillary adenopathy
+Associated features,architectural distortion
+Associated features,trabecular thickening
+Associated features,skin retraction
+location,quadrant
+location,depth
+location,distance from the nipple
+location,oclock face
+location,laterality
+Malignant,
+Benign,
